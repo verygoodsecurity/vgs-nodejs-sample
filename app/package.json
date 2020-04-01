@@ -13,7 +13,7 @@
     "http-errors": "~1.7.2",
     "morgan": "~1.9.1",
     "pug": "2.0.3",
-    "sequelize": "~5.15.1",
+    "sequelize": "~5.21.5",
     "sqlite3": "~4.0.8",
     "stripe": "~6.36.0",
     "https-proxy-agent": "~2.2.1"
