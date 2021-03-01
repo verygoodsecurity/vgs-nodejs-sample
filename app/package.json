@@ -12,7 +12,7 @@
     "homeaway": "^0.2.7",
     "http-errors": "~1.7.2",
     "morgan": "~1.9.1",
-    "pug": "2.0.3",
+    "pug": "3.0.1",
     "sequelize": "~5.15.1",
     "sqlite3": "~4.0.8",
     "stripe": "~6.36.0",
